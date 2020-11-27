@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Re-Former
+# Members Only
 
 > Made as a practice for authentication in rails using devise. It allows you to create new users, edit them, add posts and edit them. You only can see the email of the user who wrote the post if you are logged in.
 
@@ -70,4 +70,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](lic.url) licensed.![](https://img.shields.io/badge/Microverse-blueviolet)
