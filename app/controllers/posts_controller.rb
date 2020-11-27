@@ -5,7 +5,6 @@ class PostsController < ApplicationController
     @posts = Post.all
   end
 
-
   # GET /posts/new
   def new
     @post = current_user.posts.build
